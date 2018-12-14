@@ -1,9 +1,9 @@
 # praktikum_9
 
 # Pengertian Array
-```
+
 Array merupakan sebuah variabel yang menyimpan lebih dari 1 buah data yang memiliki tipe data yang sama. Jadi dapat dikatakan bahwa array merupakan kumpulan dari data-data tunggal yang dijadikan dalam 1 variabel array yang alamat memorinya berbeda yang selanjutnya disebut elemen-elemen array yang bisa kita akses berdasarkan indeks.
-```
+
 
 # Latihan 1 ( Menentukan nilai minimum dan maksimum menggunakan array )
 ```
